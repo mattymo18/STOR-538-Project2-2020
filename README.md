@@ -23,7 +23,7 @@ Contains aggregate data for all teams from 2000-the first three games of 2020.
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
 ### Important Note about Offensive and Defensive Stats:
-Defensive stats are from multiple point of views. For example the columns tunrovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games. 
+Defensive stats are from multiple point of views. For example the columns tunrovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
 
 # Glossary:
 Rk -- Rank
@@ -31,7 +31,7 @@ This is a count of the rows from top to bottom.
 It is recalculated following the sorting of a column.<br />
 G -- Games played
 ### Points
-PF -- Points Scored by team<br />
+PF -- Points Scored by team (on defensive datasets this represents points allowed)<br />
 ### Tot Yds & TO
 Ply -- Offensive Plays: Pass Attempts + Rush Attempts + Times Sacked<br />
 Y/P -- Yards per Offensive Play<br />
