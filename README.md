@@ -57,8 +57,8 @@ Yds -- Rushing Yards Gained (sack yardage is not included by NFL)<br />
 TD -- Rushing Touchdowns<br />
 Y/A -- Rushing Yards per Attempt
 Minimum 6.25 rushes per game scheduled to qualify as leader.
-Minimum 750 rushes to qualify as career leader.
-1stD -- First Downs by Rushing<br />
+Minimum 750 rushes to qualify as career leader.<br />
+1stD -- First Downs by Rushing
 ### Penalties
 Pen -- Penalties committed by team and accepted<br />
 Yds -- Penalties in yards committed by team<br />
