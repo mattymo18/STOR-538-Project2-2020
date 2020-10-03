@@ -28,42 +28,42 @@ Defensive stats are from multiple point of views. For example the columns tunrov
 # Glossary:
 Rk -- Rank
 This is a count of the rows from top to bottom.
-It is recalculated following the sorting of a column.
+It is recalculated following the sorting of a column.<br />
 G -- Games played
 ### Points
-PF -- Points Scored by team
+PF -- Points Scored by team<br />
 ### Tot Yds & TO
-Ply -- Offensive Plays: Pass Attempts + Rush Attempts + Times Sacked
-Y/P -- Yards per Offensive Play
-(Rush + Pass Yards)/( Pass Attempts + Rush Attempts + Times Sacked)
-TO -- Takeaways
-FL -- Fumbles Lost by Team
-1stD -- First Downs
+Ply -- Offensive Plays: Pass Attempts + Rush Attempts + Times Sacked<br />
+Y/P -- Yards per Offensive Play<br />
+(Rush + Pass Yards)/( Pass Attempts + Rush Attempts + Times Sacked)<br />
+TO -- Takeaways<br />
+FL -- Fumbles Lost by Team<br />
+1stD -- First Downs<br />
 ### Passing
-Cmp -- Passes completed
-Att -- Passes attempted
-Yds -- Yards Gained by Passing
-For teams, sack yardage is deducted from this total
-TD -- Passing Touchdowns
-Int -- Interceptions thrown
+Cmp -- Passes completed<br />
+Att -- Passes attempted<br />
+Yds -- Yards Gained by Passing<br />
+For teams, sack yardage is deducted from this total<br />
+TD -- Passing Touchdowns<br />
+Int -- Interceptions thrown<br />
 NY/A -- Net Yards gained per pass attempt
 (Passing Yards - Sack Yards) / (Passes Attempted + Times Sacked)
 Minimum 14 attempts per schedule game to qualify as leader.
-Minimum 1500 pass attempts to qualify as career leader.
-1stD -- First Downs by Passing
+Minimum 1500 pass attempts to qualify as career leader.<br />
+1stD -- First Downs by Passing<br />
 ### Rushing
-Att -- Rushing Attempts (sacks not included in NFL)
-Yds -- Rushing Yards Gained (sack yardage is not included by NFL)
-TD -- Rushing Touchdowns
+Att -- Rushing Attempts (sacks not included in NFL)<br />
+Yds -- Rushing Yards Gained (sack yardage is not included by NFL)<br />
+TD -- Rushing Touchdowns<br />
 Y/A -- Rushing Yards per Attempt
 Minimum 6.25 rushes per game scheduled to qualify as leader.
 Minimum 750 rushes to qualify as career leader.
-1stD -- First Downs by Rushing
+1stD -- First Downs by Rushing<br />
 ### Penalties
-Pen -- Penalties committed by team and accepted
-Yds -- Penalties in yards committed by team
-1stPy -- First Downs by Penalty
-Sc% -- Percentage of drives ending in an offensive score
-TO% -- Percentage of drives ending in an offensive turnover
+Pen -- Penalties committed by team and accepted<br />
+Yds -- Penalties in yards committed by team<br />
+1stPy -- First Downs by Penalty<br />
+Sc% -- Percentage of drives ending in an offensive score<br />
+TO% -- Percentage of drives ending in an offensive turnover<br />
 ### Expected Points
 EXP -- Expected points
