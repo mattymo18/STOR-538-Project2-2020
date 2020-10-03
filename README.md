@@ -5,24 +5,24 @@ Data
 ----
 Data is found in the Source-Data directory. 
 
-1. Game.Results.csv was taken from kaggle at: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv
+1. Game.Results.csv was taken from kaggle at: https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
 This dataset contains scores for every game from 2000-2019. It also contains pregame gambling lines for each game, as well as information about the weather at each game. 
 
 2. nfl_teams.csv was taken from kaggle at:
-https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv
+https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
 This dataset contains information about each team in the NFL. 
 
 3. nfl_stadiums.csv was taken from kaggle at:
-https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv
+https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=nfl_teams.csv <br />
 This dataset contains information about each stadium. 
 
-4. Defensive-Stats folder was taken from https://www.pro-football-reference.com
+4. Defensive-Stats folder was taken from https://www.pro-football-reference.com <br />
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
-5. Offensive-Stats folder was taken from https://www.pro-football-reference.com
+5. Offensive-Stats folder was taken from https://www.pro-football-reference.com <br />
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
-## Important Note about Offensive and Defensive Stats:
+### Important Note about Offensive and Defensive Stats:
 Defensive stats are from multiple point of views. For example the columns tunrovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games. 
 
 # Glossary:
