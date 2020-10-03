@@ -63,6 +63,7 @@ Minimum 750 rushes to qualify as career leader.<br />
 Pen -- Penalties committed by team and accepted<br />
 Yds -- Penalties in yards committed by team<br />
 1stPy -- First Downs by Penalty<br />
+### Percentages
 Sc% -- Percentage of drives ending in an offensive score<br />
 TO% -- Percentage of drives ending in an offensive turnover<br />
 ### Expected Points
