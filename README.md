@@ -1,7 +1,7 @@
 STOR 538 Project 2
 ==================
 
-Project details
+Project Details
 ---------------
 
 ### Objective
