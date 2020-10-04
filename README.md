@@ -5,9 +5,9 @@ Project details
 ---------------
 
 ### Objective
-The Variables you will be predicting are Spread, Total Points, and Result. 
-Spread = Winning team's score - Losing team's score
-Total points = Winning team's score + Losing team's score
+The Variables you will be predicting are Spread, Total Points, and Result. <br />
+Spread = Winning team's score - Losing team's score <br />
+Total points = Winning team's score + Losing team's score <br />
 Result = Who wonn the game
 
 ### Methodology
