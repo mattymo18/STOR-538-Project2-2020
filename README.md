@@ -1,6 +1,23 @@
 STOR 538 Project 2
 ==================
 
+Project details
+---------------
+
+### Objective
+The Variables you will be predicting are Spread, Total Points, and Result. 
+Spread = Winning team's score - Losing team's score
+Total points = Winning team's score + Losing team's score
+Result = Who wonn the game
+
+### Methodology
+Data is available here: https://github.com/mattymo18/STOR-538-Project2 <br />
+You are asked to use this data to build models to predict the 3 variables above. These models will be used to predict NFL games in weeks 8-10. That schedule can be found here: https://www.espn.com/nfl/schedule <br />
+
+### Grading 
+You will be graded on accuracy of your models predicting these three variables. Dr. Mario will release results after each weeks games ranking your projects vs your classmates. 
+
+
 Data
 ----
 Data is found in the Source-Data directory. 
@@ -24,22 +41,6 @@ Contains aggregate data for all teams from 2000-the first three games of 2020.
 
 ### Important Note about Offensive and Defensive Stats:
 Defensive stats are from multiple point of views. For example the columns tunrovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
-
-Project details
----------------
-
-### Objective
-The Variables you will be predicting are Spread, Total Points, and Result. 
-Spread = Winning team's score - Losing team's score
-Total points = Winning team's score + Losing team's score
-Result = Who wonn the game
-
-### Methodology
-Data is available here: https://github.com/mattymo18/STOR-538-Project2 <br />
-You are asked to use this data to build models to predict the 3 variables above. These models will be used to predict NFL games in weeks 8-10. That schedule can be found here: https://www.espn.com/nfl/schedule <br />
-
-### Grading 
-You will be graded on accuracy of your models predicting these three variables. Dr. Mario will release results after each weeks games ranking your projects vs your classmates. 
 
 
 # Glossary:
