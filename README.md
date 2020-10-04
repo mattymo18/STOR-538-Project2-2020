@@ -8,14 +8,14 @@ Project Details
 The Variables you will be predicting are Spread, Total Points, and Result. <br />
 Spread = Winning team's score - Losing team's score <br />
 Total points = Winning team's score + Losing team's score <br />
-Result = Who wonn the game
+Result = Who won the game
 
 ### Methodology
 Data is available here: https://github.com/mattymo18/STOR-538-Project2 <br />
 You are asked to use this data to build models to predict the 3 variables above. These models will be used to predict NFL games in weeks 8-10. That schedule can be found here: https://www.espn.com/nfl/schedule <br />
 
 ### Grading 
-You will be graded on accuracy of your models predicting these three variables. Dr. Mario will release results after each weeks games ranking your projects vs your classmates. 
+You will be graded on accuracy of your models predicting these three variables. Dr. Mario will release results after each week's games ranking your projects vs your classmates. 
 
 
 Data
