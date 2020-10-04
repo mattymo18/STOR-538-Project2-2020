@@ -48,16 +48,16 @@ Rk -- Rank
 This is a count of the rows from top to bottom.
 It is recalculated following the sorting of a column.<br />
 G -- Games played
-### Points
+#### Points
 PF -- Points Scored by team (on defensive datasets this represents points allowed)<br />
-### Tot Yds & TO
+#### Tot Yds & TO
 Ply -- Offensive Plays: Pass Attempts + Rush Attempts + Times Sacked<br />
 Y/P -- Yards per Offensive Play<br />
 (Rush + Pass Yards)/( Pass Attempts + Rush Attempts + Times Sacked)<br />
 TO -- Takeaways<br />
 FL -- Fumbles Lost by Team<br />
 1stD -- First Downs<br />
-### Passing
+#### Passing
 Cmp -- Passes completed<br />
 Att -- Passes attempted<br />
 Yds -- Yards Gained by Passing<br />
@@ -69,7 +69,7 @@ NY/A -- Net Yards gained per pass attempt
 Minimum 14 attempts per schedule game to qualify as leader.
 Minimum 1500 pass attempts to qualify as career leader.<br />
 1stD -- First Downs by Passing<br />
-### Rushing
+#### Rushing
 Att -- Rushing Attempts (sacks not included in NFL)<br />
 Yds -- Rushing Yards Gained (sack yardage is not included by NFL)<br />
 TD -- Rushing Touchdowns<br />
@@ -77,12 +77,12 @@ Y/A -- Rushing Yards per Attempt
 Minimum 6.25 rushes per game scheduled to qualify as leader.
 Minimum 750 rushes to qualify as career leader.<br />
 1stD -- First Downs by Rushing
-### Penalties
+#### Penalties
 Pen -- Penalties committed by team and accepted<br />
 Yds -- Penalties in yards committed by team<br />
 1stPy -- First Downs by Penalty<br />
-### Percentages
+#### Percentages
 Sc% -- Percentage of drives ending in an offensive score<br />
 TO% -- Percentage of drives ending in an offensive turnover<br />
-### Expected Points
+#### Expected Points
 EXP -- Expected points
