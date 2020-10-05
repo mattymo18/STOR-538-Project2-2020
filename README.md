@@ -7,13 +7,12 @@ Project Details
 ### Objective
 The Variables you will be predicting are Spread, Total Points, and Result. <br />
 Spread = Winning team's score - Losing team's score <br />
-<<<<<<< HEAD
 Total points = Winning team's score + Losing team's score <br />
 Result = Who won the game
 =======
 Total Points = Winning team's score + Losing team's score <br />
-Result = Who wonn the game
->>>>>>> atacker22dw-patch-2
+Result = Who won the game
+
 
 ### Methodology
 Data is available here: https://github.com/mattymo18/STOR-538-Project2 <br />
@@ -49,7 +48,6 @@ Contains aggregate data for all teams from 2000-the first three games of 2020.
 Defensive stats are from multiple point of views. For example the columns turnovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
 =======
 Defensive stats are from multiple points of view. For example the columns turnovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
->>>>>>> atacker22dw-patch-2
 
 Glossary
 --------
