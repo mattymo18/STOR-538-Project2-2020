@@ -40,7 +40,7 @@ Contains aggregate data for all teams from 2000-the first three games of 2020.
 Contains aggregate data for all teams from 2000-the first three games of 2020. 
 
 #### Important Note about Offensive and Defensive Stats:
-Defensive stats are from multiple point of views. For example the columns tunrovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
+Defensive stats are from multiple point of views. For example the columns turnovers, fumbles, and interceptions represent how many turnovers and fumbles that team caused the opposing offense. On the other hand, columns under the passing or rushing header are what that team allowed the opposing offense during the 16 games.
 
 Glossary
 --------
