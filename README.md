@@ -9,8 +9,7 @@ The Variables you will be predicting are Spread, Total Points, and Result. <br /
 Spread = Winning team's score - Losing team's score <br />
 Total points = Winning team's score + Losing team's score <br />
 Result = Who won the game
-Total Points = Winning team's score + Losing team's score <br />
-Result = Who won the game
+
 
 
 ### Methodology
